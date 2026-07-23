@@ -1,2 +1,2 @@
 # pr-images
-Images for use in PR
+Images for use in PRs
