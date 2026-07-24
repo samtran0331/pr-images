@@ -26,6 +26,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### are you not entertained
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gladiator-2.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gladiator-2.jpg" width="450">
+</p>
+```
+
 ### bob ross
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/bob-ross-1.jpg" width="450">
@@ -48,6 +59,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### crowd chants merge
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gladiator-1.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gladiator-1.jpg" width="450">
+</p>
+```
+
 ### doc brown
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/doc-brown.jpg" width="450">
@@ -67,6 +89,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/don-corleone.jpg" width="450">
+</p>
+```
+
+### don't call me Shirley
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/airplane.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/airplane.jpg" width="450">
 </p>
 ```
 
@@ -210,6 +243,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/reaper.png" width="450">
+</p>
+```
+
+### red pill or blue pill
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/red-pill-blue-pill.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/red-pill-blue-pill.jpg" width="450">
 </p>
 ```
 
