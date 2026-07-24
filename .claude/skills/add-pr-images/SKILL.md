@@ -15,12 +15,12 @@ You are helping add new image files to the `README.md` in the `pr-images` repo.
 ```
 ### display name
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/FILENAME" width="300">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/FILENAME" width="450">
 </p>
 
 \```
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/FILENAME" width="300">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/FILENAME" width="450">
 </p>
 \```
 ```
@@ -29,4 +29,4 @@ Replace `FILENAME` with the actual file name (e.g. `pr-gandalf.jpg`).
 
 5. Also remove any entries whose image file no longer exists in the repo (check with `git status` for deleted files).
 
-6. Do not commit — leave that to the user.
+6. Commit and push to main.
