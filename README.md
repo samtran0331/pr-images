@@ -70,6 +70,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### dr. evil — one million approvals
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/dr-evil.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/dr-evil.jpg" width="450">
+</p>
+```
+
 ### dumpster fire
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/dumpster-fire.png" width="450">
@@ -81,6 +92,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### forrest gump
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gump.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gump.jpg" width="450">
+</p>
+```
+
 ### gandalf
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gandalf.jpg" width="450">
@@ -89,6 +111,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gandalf.jpg" width="450">
+</p>
+```
+
+### houston, we have an approval
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/houston.jpeg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/houston.jpeg" width="450">
 </p>
 ```
 
@@ -210,6 +243,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/terminator.jpg" width="450">
+</p>
+```
+
+### this is github!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/sparta.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/sparta.jpg" width="450">
 </p>
 ```
 
