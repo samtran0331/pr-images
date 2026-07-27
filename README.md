@@ -26,6 +26,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### approved — into the merge conflict
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/300.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/300.jpg" width="450">
+</p>
+```
+
 ### are you not entertained
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gladiator-2.jpg" width="450">
@@ -224,6 +235,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### napoleon dynamite
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/napoleon-dynamite.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/napoleon-dynamite.jpg" width="450">
+</p>
+```
+
 ### one small step
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/one-small-step.jpg" width="450">
@@ -268,6 +290,28 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### seal of approval
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/seal-of-approval.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/seal-of-approval.jpg" width="450">
+</p>
+```
+
+### success kid
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/success-kid.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/success-kid.jpg" width="450">
+</p>
+```
+
 ### the scream
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-scream.jpg" width="450">
@@ -290,6 +334,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### the voice — the merge competition
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-voice.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-voice.jpg" width="450">
+</p>
+```
+
 ### this is github!
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/sparta.jpg" width="450">
@@ -298,6 +353,28 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/sparta.jpg" width="450">
+</p>
+```
+
+### to main and beyond
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/buzz-lightyear.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/buzz-lightyear.jpg" width="450">
+</p>
+```
+
+### we need to go deeper
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/inception.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/inception.jpg" width="450">
 </p>
 ```
 
