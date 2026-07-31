@@ -246,6 +246,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### meddling kids
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/meddling-kids.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/meddling-kids.jpg" width="450">
+</p>
+```
+
 ### M is for Merge
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/m-erge.jpg" width="450">
