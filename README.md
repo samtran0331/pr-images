@@ -169,6 +169,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### i don't always... but when i do, i approve
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-dont-always-but-when-i-do.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-dont-always-but-when-i-do.jpg" width="450">
+</p>
+```
+
 ### indy
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/indy.jpg" width="450">
@@ -199,6 +210,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/judge-judy.png" width="450">
+</p>
+```
+
+### keep calm and merge on
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/keep-calm.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/keep-calm.jpg" width="450">
 </p>
 ```
 
@@ -254,6 +276,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/one-small-step.jpg" width="450">
+</p>
+```
+
+### pee-wee's secret word: merge
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/pee-wee.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/pee-wee.jpg" width="450">
 </p>
 ```
 
