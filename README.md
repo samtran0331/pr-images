@@ -158,6 +158,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### Homer — If Only I Could Find That Merge Button
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/homer-wheres-that-button.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/homer-wheres-that-button.jpg" width="450">
+</p>
+```
+
 ### houston, we have an approval
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/houston.jpeg" width="450">
@@ -232,6 +243,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/maverick.jpg" width="450">
+</p>
+```
+
+### M is for Merge
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/m-erge.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/m-erge.jpg" width="450">
 </p>
 ```
 
