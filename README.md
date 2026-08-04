@@ -26,6 +26,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### Andrés Cantor — APPROVED!!!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/andres-cantor.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/andres-cantor.jpg" width="450">
+</p>
+```
+
 ### approved — into the merge conflict
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/300.jpg" width="450">
@@ -67,6 +78,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/bob-ross-2.jpg" width="450">
+</p>
+```
+
+### car salesman — no downpayment, instant approval
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/car-salesman.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/car-salesman.jpg" width="450">
 </p>
 ```
 
@@ -125,6 +147,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### drake — 19,999 lines of code
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/drake.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/drake.jpg" width="450">
+</p>
+```
+
 ### dumpster fire
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/dumpster-fire.png" width="450">
@@ -133,6 +166,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/dumpster-fire.png" width="450">
+</p>
+```
+
+### elf — approvals are my favorite
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/elf.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/elf.jpg" width="450">
 </p>
 ```
 
@@ -147,6 +191,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### fred flintstone — yabba-dabba approved
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/fred-flintstone.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/fred-flintstone.jpg" width="450">
+</p>
+```
+
 ### gandalf
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gandalf.jpg" width="450">
@@ -155,6 +210,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gandalf.jpg" width="450">
+</p>
+```
+
+### gatsby — approved
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gatsby.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gatsby.jpg" width="450">
 </p>
 ```
 
@@ -334,6 +400,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### picard — engage... approve!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/picard-engage.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/picard-engage.jpg" width="450">
+</p>
+```
+
 ### reaper
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/reaper.png" width="450">
@@ -419,6 +496,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-voice.jpg" width="450">
+</p>
+```
+
+### there's no place like main
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/no-place-like-main.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/no-place-like-main.jpg" width="450">
 </p>
 ```
 
