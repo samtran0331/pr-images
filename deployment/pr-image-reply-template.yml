@@ -1,0 +1,54 @@
+name: Add Image to PR Approval
+
+on:
+  pull_request_review:
+    types: [submitted]
+
+jobs:
+  insert-image:
+    runs-on: ubuntu-latest
+    if: |
+      github.event.review.state == 'APPROVED' &&
+      contains(github.event.review.body, '#include-image#')
+    
+    steps:
+      - name: Checkout pr-images repo
+        uses: actions/checkout@v4
+        with:
+          repository: samtran0331/pr-images
+          path: pr-images
+
+      - name: Reply with random image
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            
+            // Read README from pr-images repo
+            const readmeContent = fs.readFileSync('./pr-images/README.md', 'utf8');
+            
+            // Match markdown image syntax in code blocks
+            const imageMatches = readmeContent.match(/```\n(!\[.*?\]\(.*?\))\n```/g);
+            
+            if (!imageMatches || imageMatches.length === 0) {
+              console.log('No images found in pr-images README.md');
+              return;
+            }
+            
+            // Extract just the markdown image syntax
+            const images = imageMatches.map(match => 
+              match.replace(/```\n/g, '').replace(/\n```/g, '')
+            );
+            
+            // Pick a random image
+            const randomImage = images[Math.floor(Math.random() * images.length)];
+            
+            console.log(`Selected image: ${randomImage}`);
+            
+            // Post as a reply comment to THIS repo's PR
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `## ✨ Approved!\n\n${randomImage}`
+            });
