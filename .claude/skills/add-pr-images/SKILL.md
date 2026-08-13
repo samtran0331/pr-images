@@ -1,16 +1,20 @@
 # Add PR Images to README
 
-You are helping add new image files to the `README.md` in the `pr-images` repo.
+Sync `README.md` so it exactly matches the image files on disk — add missing entries, remove stale ones.
 
 ## Process
 
-1. Run `git status` to identify untracked `.jpg`/`.png`/`.jpeg` image files not yet in the README.
+1. **Discover all image files on disk** using `find . -maxdepth 1 -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" -o -iname "*.webp" \)` run from the repo root. Collect the basenames.
 
-2. For each new image file, use the Read tool to view it as an image so you understand its content.
+2. **Discover all image filenames referenced in README.md** by grepping for `pr-images/main/` lines. Collect those basenames.
 
-3. Derive a short, human-friendly display name from the image content (not just the filename).
+3. **Compute the diff:**
+   - **Missing from README** = on disk but not in README → add
+   - **Stale in README** = in README but not on disk → remove
 
-4. Insert each new image into `README.md` in **alphabetical order by display name**, using this exact format:
+4. For each **missing** file, use the Read tool to view it as an image, then derive a short human-friendly display name from the content (not just the filename).
+
+5. **Insert** each missing entry into `README.md` in **alphabetical order by display name**, using this exact format:
 
 ```
 ### display name
@@ -25,8 +29,6 @@ You are helping add new image files to the `README.md` in the `pr-images` repo.
 \```
 ```
 
-Replace `FILENAME` with the actual file name (e.g. `pr-gandalf.jpg`).
+6. **Remove** each stale entry from `README.md` — delete the `### heading` plus the preview block and code block beneath it.
 
-5. Also remove any entries whose image file no longer exists in the repo (check with `git status` for deleted files).
-
-6. Commit and push to main.
+7. Commit and push to main.
