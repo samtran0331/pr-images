@@ -334,6 +334,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### Macho Man & Hulk Hogan
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/mmrs-and-hh.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/mmrs-and-hh.jpg" width="450">
+</p>
+```
+
 ### maverick
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/maverick.jpg" width="450">
