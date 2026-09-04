@@ -180,6 +180,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### fatality — PR approved
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/fatality.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/fatality.jpg" width="450">
+</p>
+```
+
 ### forrest gump
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gump.jpg" width="450">
@@ -501,12 +512,12 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 
 ### the A-Team — A is for Approve
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/a-team.png" width="450">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/a-team.jpg" width="450">
 </p>
 
 ```
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/a-team.png" width="450">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/a-team.jpg" width="450">
 </p>
 ```
 
@@ -587,6 +598,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### Willy Wonka — golden ticket approved
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/willy-wonka.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/willy-wonka.jpg" width="450">
+</p>
+```
+
 ### yippee ki yay
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/yippee-ki-yay.jpg" width="450">
@@ -595,5 +617,16 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/yippee-ki-yay.jpg" width="450">
+</p>
+```
+
+### you're a mean one, Mr. Grinch — PR approved
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/youre-a-mean-one-mr-grinch.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/youre-a-mean-one-mr-grinch.jpg" width="450">
 </p>
 ```
