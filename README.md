@@ -532,6 +532,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### screw you guys... I'm approving this PR!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/screw-you-guys.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/screw-you-guys.jpg" width="450">
+</p>
+```
+
 ### seal of approval
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/seal-of-approval.jpg" width="450">
