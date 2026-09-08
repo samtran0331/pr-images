@@ -246,6 +246,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### go ahead... approve my PR
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/go-ahead.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/go-ahead.jpg" width="450">
+</p>
+```
+
 ### good news everyone — PR approved
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/good-news-everyone.jpg" width="450">
@@ -290,6 +301,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### I have a very particular set of skills... approving PRs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/a-particular-set-of-skills.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/a-particular-set-of-skills.jpg" width="450">
+</p>
+```
+
 ### I love you.. I know..
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-love-you-i-know.jpg" width="450">
@@ -298,6 +320,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-love-you-i-know.jpg" width="450">
+</p>
+```
+
+### I wish I knew how to approve you
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/brokeback-approval.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/brokeback-approval.jpg" width="450">
 </p>
 ```
 
@@ -532,6 +565,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### the Dude approves
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-dude-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-dude-approves.jpg" width="450">
+</p>
+```
+
 ### the scream
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-scream.jpg" width="450">
@@ -587,6 +631,28 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### they call it an approval with cheese
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/approval-with-cheese.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/approval-with-cheese.jpg" width="450">
+</p>
+```
+
+### they'll never take our approvals!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/freedom.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/freedom.jpg" width="450">
+</p>
+```
+
 ### this is github!
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/sparta.jpg" width="450">
@@ -620,6 +686,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### where we're going, we don't need approvals
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/where-we-are-going-we-dont-need-approvals.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/where-we-are-going-we-dont-need-approvals.jpg" width="450">
+</p>
+```
+
 ### Willy Wonka — golden ticket approved
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/willy-wonka.jpg" width="450">
@@ -639,6 +716,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/yippee-ki-yay.jpg" width="450">
+</p>
+```
+
+### you can't handle the approval!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/you-cant-handle-the-approval.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/you-cant-handle-the-approval.jpg" width="450">
 </p>
 ```
 
