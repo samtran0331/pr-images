@@ -301,6 +301,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### I ❤️ mom and PR Approvals
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-love-mom-and-approvals.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-love-mom-and-approvals.jpg" width="450">
+</p>
+```
+
 ### indy
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/indy.jpg" width="450">
@@ -562,6 +573,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/no-place-like-main.jpg" width="450">
+</p>
+```
+
+### these are the code changes you're looking for
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/these-are-the-droids.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/these-are-the-droids.jpg" width="450">
 </p>
 ```
 
