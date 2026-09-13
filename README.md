@@ -400,17 +400,6 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
-### it's alive!
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/its-alive.jpg" width="450">
-</p>
-
-```
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/its-alive.jpg" width="450">
-</p>
-```
-
 ### it's approved!!!!
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/its-approved.jpg" width="450">
