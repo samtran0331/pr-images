@@ -226,6 +226,17 @@ If you have ideas for images, please submit a PR with it!
 </p>
 ```
 
+### fo' shizzle my apprizzle
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/fo-shizzle.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/fo-shizzle.jpg" width="450">
+</p>
+```
+
 ### forrest gump
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gump.jpg" width="450">
@@ -377,6 +388,17 @@ If you have ideas for images, please submit a PR with it!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-love-mom-and-approvals.jpg" width="450">
+</p>
+```
+
+### I'm not throwin' away my approval!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/not-throwin-away-my-approval.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/not-throwin-away-my-approval.jpg" width="450">
 </p>
 ```
 
@@ -534,6 +556,17 @@ If you have ideas for images, please submit a PR with it!
 </p>
 ```
 
+### no soup for you! ...approval? OK!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/no-soup-for-you.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/no-soup-for-you.jpg" width="450">
+</p>
+```
+
 ### one small step
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/one-small-step.jpg" width="450">
@@ -622,6 +655,17 @@ If you have ideas for images, please submit a PR with it!
 </p>
 ```
 
+### Shane from Tires — approve the PR!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/shane-from-tires.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/shane-from-tires.jpg" width="450">
+</p>
+```
+
 ### success kid
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/success-kid.jpg" width="450">
@@ -652,6 +696,17 @@ If you have ideas for images, please submit a PR with it!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-dude-approves.jpg" width="450">
+</p>
+```
+
+### the only thing we have to fear is PRs that fail
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/fear-itself.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/fear-itself.jpg" width="450">
 </p>
 ```
 
@@ -817,6 +872,17 @@ If you have ideas for images, please submit a PR with it!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/you-cant-handle-the-approval.jpg" width="450">
+</p>
+```
+
+### you miss 100% of the PRs you don't approve — Michael Scott
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/michael-scott-wayne-gretsky.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/michael-scott-wayne-gretsky.jpg" width="450">
 </p>
 ```
 
