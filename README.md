@@ -1,9 +1,14 @@
 # pr-images
+
 Images for use in pull request approvals. Click the copy icon on any snippet below and paste into a PR comment.
+
 You can also use the workflow and put it into your repo. Whenever you create an approval, an image will automatically be added as a comment.
 Look in the deployment directory for more info on using the workflow.
-Have fun!
-If you have ideas for images, please submit a PR with it!
+
+*Have fun!*
+
+**If you have ideas for images, please submit a PR with it!**
+
 ---
 
 ### america's got talent
