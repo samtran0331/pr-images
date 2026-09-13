@@ -26,6 +26,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### an approval on Elm Street
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/an-approval-on-elm-street.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/an-approval-on-elm-street.jpg" width="450">
+</p>
+```
+
 ### Andrés Cantor — APPROVED!!!
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/andres-cantor.jpg" width="450">
@@ -81,6 +92,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### Camp Code-A-Lot — you better approve it
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/camp-code.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/camp-code.jpg" width="450">
+</p>
+```
+
 ### car salesman — no downpayment, instant approval
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/car-salesman.jpg" width="450">
@@ -89,6 +111,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/car-salesman.jpg" width="450">
+</p>
+```
+
+### come and review with us... approvals for ever and ever
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/shining-twins.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/shining-twins.jpg" width="450">
 </p>
 ```
 
@@ -356,6 +389,39 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 </p>
 ```
 
+### it puts the approval in the basket
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/buffalo-bill.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/buffalo-bill.jpg" width="450">
+</p>
+```
+
+### it's alive!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/its-alive.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/its-alive.jpg" width="450">
+</p>
+```
+
+### it's approved!!!!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/its-approved.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/its-approved.jpg" width="450">
+</p>
+```
+
 ### jaws
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/jaws.jpg" width="450">
@@ -386,6 +452,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/keep-calm.jpg" width="450">
+</p>
+```
+
+### KHAAAAN! — I deny your PR request, Kirk
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/khaaaan.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/khaaaan.jpg" width="450">
 </p>
 ```
 
@@ -683,6 +760,17 @@ Images for use in PRs. Click the copy icon on any snippet below and paste into a
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/buzz-lightyear.jpg" width="450">
+</p>
+```
+
+### we all approve down here...
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/pennywise.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/pennywise.jpg" width="450">
 </p>
 ```
 
