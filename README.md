@@ -330,6 +330,17 @@ Look in the [deployment directory](https://github.com/samtran0331/pr-images/tree
 </p>
 ```
 
+### holy complicated commits Batman!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/holy-complicated-commits.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/holy-complicated-commits.jpg" width="450">
+</p>
+```
+
 ### Homer — If Only I Could Find That Merge Button
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/homer-wheres-that-button.jpg" width="450">
@@ -580,6 +591,17 @@ Look in the [deployment directory](https://github.com/samtran0331/pr-images/tree
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/napoleon-dynamite.jpg" width="450">
+</p>
+```
+
+### no Mr. Bond, I expect you to approve
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/no-mr-bond-i-expect-you-to-approve.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/no-mr-bond-i-expect-you-to-approve.jpg" width="450">
 </p>
 ```
 
