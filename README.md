@@ -99,6 +99,17 @@ Look in the [deployment directory](https://github.com/samtran0331/pr-images/tree
 </p>
 ```
 
+### Byers residence — it says MERGED
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/bowers-residence.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/bowers-residence.jpg" width="450">
+</p>
+```
+
 ### Camp Code-A-Lot — you better approve it
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/camp-code.jpg" width="450">
@@ -404,6 +415,17 @@ Look in the [deployment directory](https://github.com/samtran0331/pr-images/tree
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/not-throwin-away-my-approval.jpg" width="450">
+</p>
+```
+
+### I'm sorry Dave, I'm afraid I can't approve that [kidding]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/im-sorry-dave.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/im-sorry-dave.jpg" width="450">
 </p>
 ```
 
