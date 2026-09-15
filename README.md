@@ -77,6 +77,17 @@ Look in the [deployment directory](https://github.com/samtran0331/pr-images/tree
 </p>
 ```
 
+### bears, beets, Battlestar Galactica, PR approvals
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/bears-beets-battlestar-galactica-approvals.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/bears-beets-battlestar-galactica-approvals.jpg" width="450">
+</p>
+```
+
 ### bob ross
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/bob-ross-1.jpg" width="450">
@@ -162,6 +173,17 @@ Look in the [deployment directory](https://github.com/samtran0331/pr-images/tree
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/doc-brown.jpg" width="450">
+</p>
+```
+
+### Dolly approves your PR
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/dolly-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/dolly-approves.jpg" width="450">
 </p>
 ```
 
@@ -360,6 +382,17 @@ Look in the [deployment directory](https://github.com/samtran0331/pr-images/tree
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/houston.jpeg" width="450">
+</p>
+```
+
+### I approved his PR with some fava beans and a nice Chianti
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/hannibal-lecter-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/hannibal-lecter-approves.jpg" width="450">
 </p>
 ```
 
@@ -616,6 +649,17 @@ Look in the [deployment directory](https://github.com/samtran0331/pr-images/tree
 </p>
 ```
 
+### nothing better than getting your PR approved — except pretzel day
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/stanley-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/stanley-approves.jpg" width="450">
+</p>
+```
+
 ### one small step
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/one-small-step.jpg" width="450">
@@ -781,6 +825,17 @@ Look in the [deployment directory](https://github.com/samtran0331/pr-images/tree
 </p>
 ```
 
+### Terminator approves
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/ahnold-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/ahnold-approves.jpg" width="450">
+</p>
+```
+
 ### the voice — the merge competition
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-voice.jpg" width="450">
@@ -869,6 +924,17 @@ Look in the [deployment directory](https://github.com/samtran0331/pr-images/tree
 </p>
 ```
 
+### we are the world! we are the reviewers!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/we-are-the-reviewers.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/we-are-the-reviewers.jpg" width="450">
+</p>
+```
+
 ### we need to go deeper
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/inception.jpg" width="450">
@@ -877,6 +943,17 @@ Look in the [deployment directory](https://github.com/samtran0331/pr-images/tree
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/inception.jpg" width="450">
+</p>
+```
+
+### when your PR is approved on the first try
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/jack-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/jack-approves.jpg" width="450">
 </p>
 ```
 
