@@ -7,7 +7,9 @@ Look in the [deployment directory](https://github.com/samtran0331/pr-images/tree
 
 *Have fun!*
 
-**If you have ideas for images, please submit a PR with it!**
+**If you have ideas for images, please submit a bug with the idea!** 
+
+If you have more than an idea and want to create a meme yourself, please do so! I usually try to optimize the image to around 1000px wide and compressed to around 500kb-600kb JPG. The HTML tag resizes the image to 450px wide so absolutely no images with widths smaller than that please! Just pull the repo, create a branch, add your image, and submit a PR when you're done!
 
 ---
 
