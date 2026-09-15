@@ -554,6 +554,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### live long and approve PRs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/spock-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/spock-approves.jpg" width="450">
+</p>
+```
+
 ### Macho Man & Hulk Hogan
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/mmrs-and-hh.jpg" width="450">
@@ -694,6 +705,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/picard-engage.jpg" width="450">
+</p>
+```
+
+### Pinky and the Brain — try and take over the world... and approve this PR!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/pinky-and-the-brain-approve.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/pinky-and-the-brain-approve.jpg" width="450">
 </p>
 ```
 
