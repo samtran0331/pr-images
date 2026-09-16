@@ -422,6 +422,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### I have the power... to approve your PR
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/he-man-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/he-man-approves.jpg" width="450">
+</p>
+```
+
 ### I love you.. I know..
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-love-you-i-know.jpg" width="450">
@@ -518,6 +529,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/jaws.jpg" width="450">
+</p>
+```
+
+### Jirapardy! — I'll take Approved for $1000
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/this-is-jeopardy-alec-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/this-is-jeopardy-alec-approves.jpg" width="450">
 </p>
 ```
 
@@ -815,6 +837,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-dude-approves.jpg" width="450">
+</p>
+```
+
+### the fortune cookie has spoken — your PR is approved!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-fortune-cookie-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-fortune-cookie-approves.jpg" width="450">
 </p>
 ```
 
