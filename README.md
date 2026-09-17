@@ -103,6 +103,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### approved. you're lucky I'm in a good mood
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/grumpy-cat-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/grumpy-cat-approves.jpg" width="450">
+</p>
+```
+
 ### are you not entertained
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gladiator-2.jpg" width="450">
@@ -463,6 +474,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-dont-always-but-when-i-do.jpg" width="450">
+</p>
+```
+
+### I don't care how... I want my approval NOW!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/veruca-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/veruca-approves.jpg" width="450">
 </p>
 ```
 
