@@ -400,17 +400,6 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
-### here's to your PR approval, old sport
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/leo-approves.jpg" width="450">
-</p>
-
-```
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/leo-approves.jpg" width="450">
-</p>
-```
-
 ### holy complicated commits Batman!
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/holy-complicated-commits.jpg" width="450">
