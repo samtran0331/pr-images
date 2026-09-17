@@ -15,6 +15,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 
 ---
 
+### 1, 2, 3, 4, 5 commits!!! AHH! AHH! AHH!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-count-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-count-approves.jpg" width="450">
+</p>
+```
+
 ### america's got talent
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/americas-got-talent.png" width="450">
