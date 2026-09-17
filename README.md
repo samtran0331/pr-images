@@ -48,6 +48,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### and approving is half the battle
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/flint-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/flint-approves.jpg" width="450">
+</p>
+```
+
 ### Andrés Cantor — APPROVED!!!
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/andres-cantor.jpg" width="450">
@@ -56,6 +67,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/andres-cantor.jpg" width="450">
+</p>
+```
+
+### Approvalbots... ROLLOUT!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/autobots-approve.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/autobots-approve.jpg" width="450">
 </p>
 ```
 
@@ -246,6 +268,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### either this PR is approved or I want to see your manager
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/karen-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/karen-approves.jpg" width="450">
+</p>
+```
+
 ### elf — approvals are my favorite
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/elf.jpg" width="450">
@@ -356,6 +389,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### here's to your PR approval, old sport
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/leo-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/leo-approves.jpg" width="450">
+</p>
+```
+
 ### holy complicated commits Batman!
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/holy-complicated-commits.jpg" width="450">
@@ -397,6 +441,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/hannibal-lecter-approves.jpg" width="450">
+</p>
+```
+
+### I declare approved!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-declare-approved.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-declare-approved.jpg" width="450">
 </p>
 ```
 
@@ -829,6 +884,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### The Californians — and approve the PR!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/californians-approve.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/californians-approve.jpg" width="450">
+</p>
+```
+
 ### the Dude approves
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-dude-approves.jpg" width="450">
@@ -1002,6 +1068,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/inception.jpg" width="450">
+</p>
+```
+
+### when a PR doesn't get merged fast enough
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/disaster-girl-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/disaster-girl-approves.jpg" width="450">
 </p>
 ```
 
