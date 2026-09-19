@@ -884,6 +884,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### Snickers — needs review, approved, request changes
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/snickers-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/snickers-approves.jpg" width="450">
+</p>
+```
+
 ### success kid
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/success-kid.jpg" width="450">
@@ -1134,6 +1145,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/willy-wonka.jpg" width="450">
+</p>
+```
+
+### y'all got some more of them approvals???
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/tyrone-biggums-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/tyrone-biggums-approves.jpg" width="450">
 </p>
 ```
 
