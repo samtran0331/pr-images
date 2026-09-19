@@ -521,6 +521,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### I reckon I ought to approve your PR... mmmm hmmmm
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/billy-bob-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/billy-bob-approves.jpg" width="450">
+</p>
+```
+
 ### I wish I knew how to approve you
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/brokeback-approval.jpg" width="450">
@@ -540,6 +551,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-love-mom-and-approvals.jpg" width="450">
+</p>
+```
+
+### I'll get you my pretty... and your little approval too!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-wicked-witch-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-wicked-witch-approves.jpg" width="450">
 </p>
 ```
 
@@ -650,6 +672,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/khaaaan.jpg" width="450">
+</p>
+```
+
+### lions, and tigers, and bears, and approvals! oh my!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/dorothy-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/dorothy-approves.jpg" width="450">
 </p>
 ```
 
