@@ -125,6 +125,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### asking for a review at 4:59PM
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/side-eye-chloe-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/side-eye-chloe-approves.jpg" width="450">
+</p>
+```
+
 ### bears, beets, Battlestar Galactica, PR approvals
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/bears-beets-battlestar-galactica-approvals.jpg" width="450">
@@ -444,6 +455,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### Hulk smash bad code! Hulk approve PR!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/hulk-smash-hulk-appove.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/hulk-smash-hulk-appove.jpg" width="450">
+</p>
+```
+
 ### I approved his PR with some fava beans and a nice Chianti
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/hannibal-lecter-approves.jpg" width="450">
@@ -631,6 +653,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### Jimothy approves
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/jimothy-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/jimothy-approves.jpg" width="450">
+</p>
+```
+
 ### Jirapardy! — I'll take Approved for $1000
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/this-is-jeopardy-alec-approves.jpg" width="450">
@@ -672,6 +705,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/khaaaan.jpg" width="450">
+</p>
+```
+
+### let AI write the code, then let AI approve the PR
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/another-bad-idea.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/another-bad-idea.jpg" width="450">
 </p>
 ```
 
@@ -807,6 +851,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### one does not simply approve a PR
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/one-does-not-simply-approve-a-pr.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/one-does-not-simply-approve-a-pr.jpg" width="450">
+</p>
+```
+
 ### one small step
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/one-small-step.jpg" width="450">
@@ -848,6 +903,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/pinky-and-the-brain-approve.jpg" width="450">
+</p>
+```
+
+### Punch just wants a mom, but an approval will do
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/punch-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/punch-approves.jpg" width="450">
 </p>
 ```
 
@@ -914,6 +980,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/shane-from-tires.jpg" width="450">
+</p>
+```
+
+### sneaking in a commit after the PR was approved
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/side-eye-monkey-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/side-eye-monkey-approves.jpg" width="450">
 </p>
 ```
 
@@ -1104,6 +1181,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### wait for the PR approval, then commit more code before the merge
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/bad-idea-guy-kayode-ewumi-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/bad-idea-guy-kayode-ewumi-approves.jpg" width="450">
+</p>
+```
+
 ### we all approve down here...
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/pennywise.jpg" width="450">
@@ -1148,6 +1236,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### when no one checks Slack and you had to wait 5 minutes for an approval
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/first-world-approval-problem.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/first-world-approval-problem.jpg" width="450">
+</p>
+```
+
 ### when your PR is approved on the first try
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/jack-approves.jpg" width="450">
@@ -1189,6 +1288,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/tyrone-biggums-approves.jpg" width="450">
+</p>
+```
+
+### yessssss... my preciousss approval!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gollum-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gollum-approves.jpg" width="450">
 </p>
 ```
 
