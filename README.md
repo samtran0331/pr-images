@@ -290,6 +290,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### drat, drat, and double drat! curse you and your clean code!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/pete-dastardly-and-muttley-approve.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/pete-dastardly-and-muttley-approve.jpg" width="450">
+</p>
+```
+
 ### dumpster fire
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/dumpster-fire.png" width="450">
@@ -1277,6 +1288,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/willy-wonka.jpg" width="450">
+</p>
+```
+
+### writes code with Grok, PR gets approved
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/elon-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/elon-approves.jpg" width="450">
 </p>
 ```
 
