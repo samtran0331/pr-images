@@ -26,6 +26,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### aaayyyyyyyy-proved!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-fonz-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-fonz-approves.jpg" width="450">
+</p>
+```
+
 ### america's got talent
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/americas-got-talent.png" width="450">
@@ -122,6 +133,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/gladiator-2.jpg" width="450">
+</p>
+```
+
+### asked for PR at 3:03 PM... still waiting at 3:05 PM
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/angry-photoshoot-kid-does-not-approve.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/angry-photoshoot-kid-does-not-approve.jpg" width="450">
 </p>
 ```
 
@@ -521,6 +543,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### I got 99 problems but a PR ain't one
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/jay-z-approves.png" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/jay-z-approves.png" width="450">
+</p>
+```
+
 ### I have a very particular set of skills... approving PRs
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/a-particular-set-of-skills.jpg" width="450">
@@ -752,6 +785,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### Luke, I approved your PR... NOOOOOOOOOOOO!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/vader-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/vader-approves.jpg" width="450">
+</p>
+```
+
 ### Macho Man & Hulk Hogan
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/mmrs-and-hh.jpg" width="450">
@@ -815,6 +859,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/mr-t.jpeg" width="450">
+</p>
+```
+
+### my name is Inigo Montoya, you did not approve my PR... prepare to die.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/inigo-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/inigo-approves.jpg" width="450">
 </p>
 ```
 
@@ -1013,6 +1068,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/snickers-approves.jpg" width="450">
+</p>
+```
+
+### SpongeBob — approved!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/sponge-bob-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/sponge-bob-approves.jpg" width="450">
 </p>
 ```
 
@@ -1343,6 +1409,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/you-cant-handle-the-approval.jpg" width="450">
+</p>
+```
+
+### you had me at "approved"
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/jerry-mcguire-girl-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/jerry-mcguire-girl-approves.jpg" width="450">
 </p>
 ```
 
