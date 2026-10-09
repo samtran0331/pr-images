@@ -543,6 +543,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### I don't know how to put this... but I approve
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/ron-burgundy-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/ron-burgundy-approves.jpg" width="450">
+</p>
+```
+
 ### I got 99 problems but a PR ain't one
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/jay-z-approves.png" width="450">
