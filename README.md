@@ -1313,6 +1313,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### whatever... I approve
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/octocat-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/octocat-approves.jpg" width="450">
+</p>
+```
+
 ### when a PR doesn't get merged fast enough
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/disaster-girl-approves.jpg" width="450">
