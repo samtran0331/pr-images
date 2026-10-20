@@ -1,3 +1,8 @@
+---
+name: add-pr-images
+description: Add PR meme images to README.md — syncs README against image files on disk, inserts missing entries with display names in alphabetical order, removes stale ones.
+---
+
 # Add PR Images to README
 
 Sync `README.md` so it exactly matches the image files on disk — add missing entries, remove stale ones.
