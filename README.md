@@ -224,6 +224,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### Channel 4 news team approves
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/channel-4-news-team-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/channel-4-news-team-approves.jpg" width="450">
+</p>
+```
+
 ### come and review with us... approvals for ever and ever
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/shining-twins.jpg" width="450">
@@ -455,6 +466,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 </p>
 ```
 
+### here's your approval — The Shining
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-shining-jack-approves.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/the-shining-jack-approves.jpg" width="450">
+</p>
+```
+
 ### holy complicated commits Batman!
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/holy-complicated-commits.jpg" width="450">
@@ -507,6 +529,17 @@ Nothing vulgar, racist, demeaning, or NSFW!
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/hannibal-lecter-approves.jpg" width="450">
+</p>
+```
+
+### I can haz approval plz?
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-can-haz-approval.jpg" width="450">
+</p>
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samtran0331/pr-images/main/i-can-haz-approval.jpg" width="450">
 </p>
 ```
 
